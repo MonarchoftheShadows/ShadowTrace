@@ -2,6 +2,7 @@
 
 **Version:** 1.0.0  
 **Purpose:** Legitimate defensive cybersecurity, malware triage, and post-incident analysis
+![shadowtrace Banner](https://img.shields.io/badge/shadowtrace-ir-v1.0-blue) ![Python](https://img.shields.io/badge/Python-3.6%2B-green) ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![ShadowTrace](https://github.com/user-attachments/assets/598dcb7f-e927-4c5f-ade0-66d133d6ee80)
 
 ---
@@ -259,6 +260,7 @@ For questions, issues, or feature requests:
 **ShadowTrace-IR - Empowering Defensive Security Through Transparency**
 
 *Stay vigilant. Stay defensive. Stay secure.*
+
 
 
 
