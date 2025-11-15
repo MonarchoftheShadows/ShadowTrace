@@ -1,8 +1,8 @@
-# file: docs/README.md
 # ShadowTrace-IR: Digital Forensics & Incident Response Console
 
 **Version:** 1.0.0  
 **Purpose:** Legitimate defensive cybersecurity, malware triage, and post-incident analysis
+![ShadowTrace](https://github.com/user-attachments/assets/598dcb7f-e927-4c5f-ade0-66d133d6ee80)
 
 ---
 
@@ -258,3 +258,4 @@ For questions, issues, or feature requests:
 **ShadowTrace-IR - Empowering Defensive Security Through Transparency**
 
 *Stay vigilant. Stay defensive. Stay secure.*
+
